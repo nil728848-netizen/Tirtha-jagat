@@ -1,0 +1,6 @@
+{
+  "name": "ALPHABET ADVENTURE – THE ULTIMATE A TO Z WORLD",
+  "description": "A 3D educational adventure game across 26 interactive A to Z worlds with 12 playable mini-games, three difficulty modes, multilingual pronunciation, and local multiplayer battles. Developed by Tirtha Jagat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
